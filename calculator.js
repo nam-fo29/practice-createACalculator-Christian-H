@@ -116,3 +116,14 @@ function calculator() {
 
 }
 calculator();
+
+/* 
+Step-by-Step Tasks #4
+    Absolute Value of -45 and 67 : Outputs 122
+    Raise 5 to the power of 3 : Outputs 125
+    Calculate the square root of 144 : Outputs 12
+    Determine the largest value of [3, 78, -12, 0.5, 27] : Outputs 78
+    Determine the smallest value of [3, 78, -12, 0.5, 27] : Outputs -12
+    Generate a random number between 1 and 50 : Outputs 39
+    Round 23.67891 to 2 decimal places : Outputs 23.68 
+*/
